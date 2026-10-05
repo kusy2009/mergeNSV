@@ -46,3 +46,7 @@ The package has no dependency on any other macro or package.
 
  Author:             Saikrishnareddy Yengannagari  
  Latest update Date: 2026-10-05  
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
