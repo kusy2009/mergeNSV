@@ -4,8 +4,6 @@ mergeNSV is a SAS package with one macro, `%merge_nsv()`, that merges the non-st
 
 The package has no dependency on any other macro or package.
 
-> **Status:** pre-release. The NS-- structure is the one in the SDTM v3.0 / SDTMIG v4.0 public-review draft (review closed 06-April-2026, publication targeted Q4 2026) and will be re-checked against the published standard. Publication of this repository is subject to the author's organisation's open-source approval.
-
 ---
 
 ## %merge_nsv()
